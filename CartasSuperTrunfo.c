@@ -25,7 +25,7 @@ int main(){
     printf("populaçao: 22.0000  \n");
     printf("area: 115.09 km²  \n");
     printf("PIB: 22.00000 bilhoes de reais  \n");
-    printf("pontos turisticos: 28  ");
+    printf("pontos turisticos: 28");
 
 
 
